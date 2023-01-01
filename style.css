@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.abaut {
+  display: inline-block;
+  /* border: 1px solid blue; */
+  width: 20%;
+}
+
+.gmail {
+  text-align: right;
+  display: inline-block;
+  width: 78%;
+  /* border: 1px solid blueviolet; */
+  vertical-align: middle;
+  margin: 10px;
+}
+.appicon {
+  vertical-align: middle;
+}
+
+#sign {
+  border: none;
+  background-color: blue;
+  color: white;
+  padding: 3px;
+}
+
+header {
+  font-size: 13px;
+  width: 100%;
+}
+
+main div {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  /* border: 1px solid red; */
+}
+.google {
+  /* width: 1263.33px; */
+  height: 92px;
+  max-height: 290px;
+  min-height: 92px;
+  min-width: auto;
+  display: inline-block;
+  margin-top: 60px;
+}
+.googlersm {
+  text-decoration: none solid rgb(32, 33, 36);
+  width: 272px;
+  height: 92px;
+  max-width: 100%;
+  max-height: 100%;
+  display: inline;
+  margin: 20px auto;
+}
+.microfon {
+  width: 20px;
+  /* border: 1px solid blue; */
+  display: inline-block;
+}
+
+.microfondiv {
+  display: inline-block;
+  width: 24px;
+  height: 44px;
+}
+.orta {
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 560px;
+  height: 39px;
+  padding: 5px 8px 0 14px;
+  display: flex;
+  text-decoration: none solid rgb(32, 33, 36);
+  margin: auto;
+}
+.src {
+  width: 20px;
+  height: 27px;
+  margin: 9px 0 0 0;
+  padding: 0 13px 0 0;
+}
+.orta input {
+  width: 510px;
+  height: 35px;
+  margin: -3px 0 0 0;
+  /* display: flex; */
+  /* cursor: text; */
+  border: 1px solid white;
+  outline-style: none;
+  padding: 5px 8px 0 14px;
+}
+.input {
+  width: 500px;
+  height: 35px;
+  /* display: flex; */
+}
+.button {
+  width: 584px;
+  height: 70px;
+  padding: 18px 0 0 0;
+  display: inline-block;
+  /* border: 1px solid blue */
+}
+.button1 {
+  width: 123px;
+  height: 36px;
+  display: inline-block;
+  margin: 11px 4px;
+  padding: 0 16px;
+  border: 1px solid white;
+  text-align: center;
+}
+
+.button2 {
+  width: 216px;
+  height: 36px;
+  display: inline-block;
+  margin: 11px 4px;
+  padding: 0 16px;
+  border: 1px solid white;
+  text-align: center;
+}
+footer {
+  /* display: inline-block; */
+  background-color: #f2f2f2;
+  /* border: 2px solid red; */
+  /* position: fixed; */
+  width: 100%;
+  margin-bottom: 10px;
+  position: absolute;
+  top: 610px;
+ 
+}
+.turkey {
+  background-color: #f2f2f2;
+  /* border: 2px solid red; */
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid #dadce0;
+  padding: 15px 30px;
+}
+.hakkinda {
+  display: inline-block;
+  float: left;
+  /* border: 2px solid red; */
+  background-color: #f2f2f2;
+  margin-left: 2px;
+}
+
+.gizli {
+  display: inline-block;
+  float: right;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+.turkey2 {
+  /* border: 2px solid red; */
+  width: 100%;
+  background-color: #f2f2f2;
+  height: 52.2px;
+  padding: 15px 30px;
+  /* display: flex; */
+}
+.bos {
+  width: 300px;
+  height: 250px%;
+}
+a {
+  margin: 5px;
+}
+body {
+  position: relative;
+}
